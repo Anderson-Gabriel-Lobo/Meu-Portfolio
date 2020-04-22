@@ -1,0 +1,21 @@
+{
+  "name": "Portfolio",
+  "homepage": "https://github.com/Xshikamaru/Meu-Portfolio",
+  "authors": [
+    "Anderson <ander198702@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
